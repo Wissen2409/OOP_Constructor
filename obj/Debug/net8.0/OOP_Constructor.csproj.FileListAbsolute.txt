@@ -1,0 +1,14 @@
+/Users/emrahelis/OOP_Constructor/bin/Debug/net8.0/OOP_Constructor
+/Users/emrahelis/OOP_Constructor/bin/Debug/net8.0/OOP_Constructor.deps.json
+/Users/emrahelis/OOP_Constructor/bin/Debug/net8.0/OOP_Constructor.runtimeconfig.json
+/Users/emrahelis/OOP_Constructor/bin/Debug/net8.0/OOP_Constructor.dll
+/Users/emrahelis/OOP_Constructor/bin/Debug/net8.0/OOP_Constructor.pdb
+/Users/emrahelis/OOP_Constructor/obj/Debug/net8.0/OOP_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/OOP_Constructor/obj/Debug/net8.0/OOP_Constructor.AssemblyInfoInputs.cache
+/Users/emrahelis/OOP_Constructor/obj/Debug/net8.0/OOP_Constructor.AssemblyInfo.cs
+/Users/emrahelis/OOP_Constructor/obj/Debug/net8.0/OOP_Constructor.csproj.CoreCompileInputs.cache
+/Users/emrahelis/OOP_Constructor/obj/Debug/net8.0/OOP_Constructor.dll
+/Users/emrahelis/OOP_Constructor/obj/Debug/net8.0/refint/OOP_Constructor.dll
+/Users/emrahelis/OOP_Constructor/obj/Debug/net8.0/OOP_Constructor.pdb
+/Users/emrahelis/OOP_Constructor/obj/Debug/net8.0/OOP_Constructor.genruntimeconfig.cache
+/Users/emrahelis/OOP_Constructor/obj/Debug/net8.0/ref/OOP_Constructor.dll
