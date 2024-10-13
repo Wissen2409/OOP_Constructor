@@ -12,3 +12,4 @@
 /Users/emrahelis/OOP_Constructor/obj/Debug/net8.0/OOP_Constructor.pdb
 /Users/emrahelis/OOP_Constructor/obj/Debug/net8.0/OOP_Constructor.genruntimeconfig.cache
 /Users/emrahelis/OOP_Constructor/obj/Debug/net8.0/ref/OOP_Constructor.dll
+/Users/emrahelis/OOP_Constructor/obj/Debug/net8.0/OOP_Constructor.sourcelink.json

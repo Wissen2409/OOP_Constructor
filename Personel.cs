@@ -34,6 +34,26 @@ public class Personel
 
     }
 
+    // bellege çıkacak değerleri nesne oluştururken vermek için, bir ctor daha yazmamız lazım
+    // Konu : Parametre alan Ctor
+
+    public Personel(string ctorAd, string ctorSoyad, int ctorYas)
+    {
+
+        // Nesne örneği alınırken, gönderilen parametreler, nesne içerisndeki değişkenlere aktarılır
+        // nesne bu değişkenler ile birlikte belleğe çıkar
+        // dolasıyla nesne üretilirken değerlerde yanlarında gitmiş olurlar.
+
+        
+        // 3 parametre alan OverLoad Ctor.
+
+        Ad=ctorAd;
+        Soyad=ctorSoyad;
+        Yas=ctorYas;
+
+
+    }
+
 
 
 }
